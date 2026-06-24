@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-javanaise/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Commercial Licensing for La Javanaise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-javanaise/) |
+| **Get License** | [Get a Licensing Quote for La Javanaise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-javanaise/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -110,7 +110,7 @@ This song is an original creative work by Abu Sayed. All lyrics, melody, and com
 |:-------------------|:------------|
 | **Author** | Abu Sayed |
 | **Version** | `v1` |
-| **SHA-256 Hash** | `N/A` |
+| **SHA-256 Hash** | `0579e63d230779d89a878877ac103ee62afe833101e68112891c99efd4345f2e` |
 | **Timestamp** | June 24, 2026 |
 
 See [LICENSE.md](./LICENSE.md) for full terms and conditions.
