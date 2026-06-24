@@ -15,7 +15,7 @@
 | **Written On** | June 24, 2026 |
 | **Song Page** | [Open Song Page](https://imabusayed.github.io/la-javanaise/) |
 | **License** | [View License](./LICENSE.md) |
-| **Get License** | [Obtain a Music License for La Javanaise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-javanaise/) |
+| **Get License** | [Commercial Licensing for La Javanaise](https://music.abusayed.com.bd/Licensing/?https://imabusayed.github.io/la-javanaise/) |
 | **Author** | Abu Sayed |
 | **Rights** | All Rights Reserved |
 
@@ -32,7 +32,10 @@
 
 ## 📝 Lyric Preview
 
-> [Excerpt will appear here after the final lyric is saved.]
+> Dans le reflet de la ville, ton regard me frôle
+> Midnight in Paris, j'perds un peu le contrôle
+> Tu bouges sur la basse, le désir est chimique
+> J'veux goûter tes lèvres, l'ambiance est magique
 > ...
 
 [**View Full Lyrics**](./lyrics.txt) | [**View Metadata**](./manifest.json) | [**View Proofs**](./hashes.txt)
